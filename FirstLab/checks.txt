@@ -1,3 +1,4 @@
 #int
-for
-best[]
+void
+main
+()

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1487521982 source:c:\users\android\desktop\compiler\firstlab\main.cpp
+1487523534 source:c:\users\android\desktop\compiler\firstlab\main.cpp
 	<iostream>
 	<fstream>
 	<string>
