@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487520796 source:c:\users\android\desktop\compiler\firstlab\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

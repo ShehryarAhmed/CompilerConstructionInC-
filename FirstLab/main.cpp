@@ -1,10 +1,18 @@
 #include <iostream>
-
+#include <fstream>
+#include <string>
 using namespace std;
 
 int main()
 {
+    char ch;
 
-    cout << "Hello world!" << endl;
-    return 0;
+    ifstream infile ("abc.txt");
+
+while(!infile.eof()){
+	infile.get(ch);
+	cout << ch << "\n";
+}
+
+return 0;
 }
